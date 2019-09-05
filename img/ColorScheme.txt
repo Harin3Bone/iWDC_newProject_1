@@ -1,0 +1,5 @@
+Yellow 		: f56f36
+Red 		: bd1550
+Yellow (Light) 	: f8ca00
+orange 		: e97f02
+green 		: 8a9b0f
