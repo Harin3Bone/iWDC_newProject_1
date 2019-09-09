@@ -1,5 +1,29 @@
+[Color Scheme]
 Yellow 		: f56f36
 Red 		: bd1550
 Yellow (Light) 	: f8ca00
 orange 		: e97f02
 green 		: 8a9b0f
+purple 		: 490A3D
+
+--------------------------
+[Signature]
+Tokoroten
+Spicy Shrimp Soup
+
+--------------------------
+[Content]
+
+<Thai>
+Spicy Shrimp Soup
+Pad Thai
+Spicy Papaya Salad
+Chicken Curry
+Thai Basil Fried Rice
+
+<Japanese>
+Ramen
+Curry
+Tempura
+Miso
+Okonomiyaki
